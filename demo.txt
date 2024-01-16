@@ -1,0 +1,16 @@
+d    rwx  rwx  r-x   2    vrushali   vrushali  115  nov   1 15:34  automation
+dir  user grp others link  userowner  grpowner size month date time directory_name
+
+- file
+s-link
+ 7    7   5
+421  421  4-1
+rwx  rwx  r-x  
+r - read permission - 4
+w - write -2
+x-exicute - 1   rwx - 7 
+
+cat /etc/passwd 
+cat /etc/group
+cat /etc/shadow
+cat /etc/skel
